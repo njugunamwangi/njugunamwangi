@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @njugunamwangi
 - 👀 I’m interested in ... wooow, this is hard....
-- 🌱 I’m currently learning yii2 framework and ussd development
+- 🌱 I’m currently learning vue js
 - 📫 Reach me on +254704502454 or desmondnjuguna.m@gmail.com
 
 <!---
