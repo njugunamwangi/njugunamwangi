@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @njugunamwangi
-- 👀 I’m interested in ... wooow, this is hard....
-- 🌱 I’m currently learning vue js & laravel
+- 👀 I’m interested in ... ethical hacking
+- 🌱 I’m currently learning react js & laravel
 - 📫 Reach me on +254704502454 or desmondnjuguna.m@gmail.com
 
 <!---
