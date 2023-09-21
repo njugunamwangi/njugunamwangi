@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Njuguna Mwangi</h1>
-<h3 align="center">A passionate frontend developer from Nakuru, Kenya</h3>
+<h3 align="center">A passionate full stack developer from Nakuru, Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/__hostdes" target="blank"><img src="https://img.shields.io/twitter/follow/__hostdes?logo=twitter&style=for-the-badge" alt="__hostdes" /></a> </p>
 
