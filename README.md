@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/__hostdes" target="blank"><img src="https://img.shields.io/twitter/follow/__hostdes?logo=twitter&style=for-the-badge" alt="__hostdes" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/njugunamwangi/laravel-portfolio)
-
 - 🌱 I’m currently learning **Laravel, vue & react**
 
 - 👯 I’m looking to collaborate on **Learning Management System**
