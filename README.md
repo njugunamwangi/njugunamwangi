@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **Laravel, vue & react**
 
-- 👯 I’m looking to collaborate on **Learning Management System**
+- 👯 I’m looking to collaborate on a **Learning Management System**
 
 - 📫 How to reach me **njugunamwangi.n@gmail.com**
+  
+- 📫 Call **+254 704 502 454**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
